@@ -1,0 +1,49 @@
+{
+  "cases": [],
+  "caseCount": 0,
+  "tickets": {},
+  "ticketCount": 1,
+  "giveaways": {
+    "1571251137804378113": {
+      "prize": "nitro",
+      "winners": 1,
+      "requiredRole": "1549880984735060031",
+      "host": "1139560908092342313",
+      "endsAt": 1794772259727,
+      "entries": [],
+      "ended": true,
+      "winnerIds": [],
+      "guildId": "1549878249881079948",
+      "channelId": "1556383576839164014",
+      "messageId": "1571251137804378113"
+    },
+    "1571251363583885458": {
+      "prize": "nitro",
+      "winners": 1,
+      "requiredRole": "1557113031928975380",
+      "host": "1139560908092342313",
+      "endsAt": 1794685973558,
+      "entries": [],
+      "ended": true,
+      "winnerIds": [],
+      "guildId": "1549878249881079948",
+      "channelId": "1556383576839164014",
+      "messageId": "1571251363583885458"
+    }
+  },
+  "verify": {
+    "messageId": "1571990791247896631",
+    "channelId": "1549885179131330711",
+    "keep": true
+  },
+  "prices": {
+    "messageId": "1571990193760636931"
+  },
+  "registered": {
+    "1139560908092342313": {
+      "key": "REPLACE-KEY-1",
+      "at": 1794862355794,
+      "revoked": false
+    }
+  }
+}
